@@ -79,3 +79,6 @@ firebase.initializeApp(firebaseConfig);
     function lngs3() {
       window.location = "legoninja3.html"
     }
+    function Ings4() {
+      window.location = "legoninja4.html";
+    }
